@@ -16,6 +16,9 @@ Usage
 =====
 Just run the script and pass lat, lon and the image filename as arguments.
 
+Example: `./geocodeImages.sh 50.68329 11.27216 image.jpg`  
+(will set the coordinates to *+50° 40' 59.84400"*, *+11° 16' 19.77600"*) 
+
 License
 =======
 [GPL v3](http://www.gnu.org/licenses/gpl.html)
